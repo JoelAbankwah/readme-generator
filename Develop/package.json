@@ -9,9 +9,11 @@
   "author": "JoelAbankwah",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "es6-promise": "^4.2.8",
+    "inquirer": "^6.3.1",
+    "isomorphic-fetch": "^3.0.0",
+    "node-fetch": "^2.6.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JoelAbankwah/readme-generator.git"
