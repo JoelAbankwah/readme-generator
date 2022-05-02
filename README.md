@@ -36,6 +36,6 @@ Use the Capybara library to test the software.
 ## Questions
 If you're stuck or having problems with the application, refer to the npm and node.js documentation or<br />
 ✉️ Email me with any questions: joelabankwah15@gmail.com<br /><br />
-:octocat: GitHub: [JoelAbankwah](https://github.com/JoelAbankwah)<br />
+GitHub: [JoelAbankwah](https://github.com/JoelAbankwah)<br />
 <br />
     

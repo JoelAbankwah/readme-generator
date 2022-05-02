@@ -45,7 +45,7 @@ ${answers.tests}
 ## Questions
 If you're stuck or having problems with the application, ${answers.questions} or<br />
 ✉️ Email me with any questions: ${answers.email}<br /><br />
-:octocat: GitHub: [${answers.username}](https://github.com/${answers.username})<br />
+GitHub: [${answers.username}](https://github.com/${answers.username})<br />
 <br />
     `;
   }
