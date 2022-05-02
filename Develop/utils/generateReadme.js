@@ -34,7 +34,7 @@ ${answers.usage}
 <br />
 This application is covered by the ${answers.license} license.
 <br />
-<a href='https://www.google.com/search?q=${answers.license}+license'>Link to the ${answers.license} license</a>
+Link to the <a href='https://www.google.com/search?q=${answers.license}+license'>${answers.license} license</a>
 
 ## Contributing
 ${answers.contributing}

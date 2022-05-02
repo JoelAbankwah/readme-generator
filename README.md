@@ -25,7 +25,7 @@ In the terminal make sure you're in the root directory with the main js file the
 <br />
 This application is covered by the GNU license.
 <br />
-<a href='https://www.google.com/search?q=GNU+license'>Link to the GNU license</a>
+Link to the <a href='https://www.google.com/search?q=GNU+license'>GNU license</a>
 
 ## Contributing
 Joel Abankwah
