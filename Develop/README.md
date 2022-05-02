@@ -1,9 +1,10 @@
+
 <h1 align="center">Readme Generator 👋</h1>
   
 ![badge](https://img.shields.io/badge/license-GNU-brightgreen)<br />
 
 ## Description
-An easy way to create a proffesional level readme in minutes. Link to a video walkthrough <a href='https://drive.google.com/file/d/1LtvAda9PUsp1SSBnnAN_BvHYZWyHb3Sv/view?usp=sharing'>here</a>
+An easy way to create a proffesional level readme
 
 ## Table of Contents
 - [Description](#description)
@@ -25,7 +26,7 @@ In the terminal make sure you're in the root directory with the main js file the
 <br />
 This application is covered by the GNU license.
 <br />
-Link to the <a href='https://www.google.com/search?q=GNU+license'>GNU license</a>
+<a href='https://www.google.com/search?q=GNU+license'>Link to the GNU license</a>
 
 ## Contributing
 Joel Abankwah
